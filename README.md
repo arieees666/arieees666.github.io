@@ -2,7 +2,7 @@
 #### I'm just a student deeply interested in cybersec, especially on the fields of binary exploitation, exploit development, and anything malware related. Still getting started on the field tho, but will fearlessly continue to learn and grow. Aiming to be one of the top tier hackers within and representing the Philippines. *About will be updated sooner or later*
 
 ### Progress Diary
-#### Since I stopped playing ctfs for a year (laptop broke rip) and only as of mid August that I got a new hand-me-down old model chromebook, I wanted to start learning exploit development seriously this time. Thus, I began to set a goal that I do something exploit dev/pwning related everyday and make sure to document what I did. 
+#### Since I stopped playing ctfs for a year (laptop broke rip) and only as of mid August that I got a new hand-me-down old model chromebook, I wanted to start learning exploit development seriously this time (even with school kinda being annoying). Thus, I began to set a goal that I do something exploit dev/pwning related everyday and make sure to document what I did. 
  - Sept 01, 2020: `Successfully finished memory corruption labs`
  - Sept 02, 2020: `Finished basic bof + shellcode challenge, stuck at shellcode lab2B`
  - Sept 03, 2020: `Finally wrote working open,read,write shellcode. Process = write shellcode, debug, rewrite shellcode`
