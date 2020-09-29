@@ -28,3 +28,6 @@
  - Sept 23, 2020: `Reversed lab6B, found continuous memory read in hash_pass - can overwrite attempts,results variables. Haven't found a way to exploit it yet. Read some self improvement articles from azerialabs to have motivation/to learn a better learning process`
  - Sept 24, 2020: `Skipped lab6B, stack isn't the same witht the writeups I read i dunno why. It doesn't let me leak the return address, only until the attempts and results variable. Worked on lab6A instead, where I identified the vuln quickly and got it to segfault. Was able to redirect code flow by partial overwrite but no plan from that point. Also started learning how to use git, made my first commit through command line today.`
  - Sept 25, 2020: `Another productive day, solved a lot of challenges from EKOPARTY, then some from darkCTF. Will continue playing as there are 11 ctfs this weekend`
+ - Sept 26-27, 2020: `Got pretty busy with ctfs, 11 ctfs in 2 days. Focused mostly on EKOPARTY which I placed 92nd and some Bsides Boston`
+ - Sept 28, 2020: `Created writeups for solved challenges, tried to solve DarkCTF pwnables which I haven't got the chance to solve`
+ - Sept 29, 2020: `Started learning about SIGROP`
