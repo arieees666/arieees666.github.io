@@ -32,3 +32,6 @@
  - Sept 28, 2020: `Created writeups for solved challenges, tried to solve DarkCTF pwnables which I haven't got the chance to solve`
  - Sept 29, 2020: `Started learning about SIGROP`
  - Sept 30, 2020: `Understood how to bypass aslr. Created a discord bot to assign a role when a certain emoji is reacted`
+
+ ## October
+ - Oct 1, 2020: `Started learning about heap exploitation, solved my first uaf :)`
