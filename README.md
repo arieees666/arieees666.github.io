@@ -35,3 +35,4 @@
 
  ## October
  - Oct 1, 2020: `Started learning about heap exploitation, solved my first uaf :)`
+ - Oct 2, 2020: `Played around and solved lab7C, but still need to understand heap memory deeper`
