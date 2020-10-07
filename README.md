@@ -36,3 +36,6 @@
  ## October
  - Oct 1, 2020: `Started learning about heap exploitation, solved my first uaf :)`
  - Oct 2, 2020: `Played around and solved lab7C, but still need to understand heap memory deeper`
+ - Oct 3-4, 2020: `Joined in the b01lers bootcamp CTF to test what I learned about memory corruption the past month; satisfied with the results, placed 92nd/500+ teams`
+ - Oct 5, 2020: `Created writeups for solved challenges.`
+ - Oct 6-7, 2020: `Started reading on heap internals`
