@@ -39,3 +39,8 @@
  - Oct 3-4, 2020: `Joined in the b01lers bootcamp CTF to test what I learned about memory corruption the past month; satisfied with the results, placed 92nd/500+ teams`
  - Oct 5, 2020: `Created writeups for solved challenges.`
  - Oct 6-7, 2020: `Started reading on heap internals`
+ - Oct 8, 2020: `Not much, focused on finishing schoolworks. Reread heap internal articles`
+ - Oct 9, 2020: `Solved the stack canary chall from b01lers. Continued reading on heap internals, beginning to understand something somehow`
+ - Oct 10-11, 2020: `Focused on playing DamCTF, though I only solved the easy ones.`
+ - Oct 12, 2020: `Currently experimenting on what bin freed chunks go to. Results differ from articles I have read, which confuses me. Will read some more and continue tomorrow.`
+ - Oct 13, 2020: `I think I finally understand which bins chunks go when they are freed. I'll read some more then start learning how to actually do exploits.`
