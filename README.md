@@ -33,7 +33,7 @@
  - Sept 29, 2020: `Started learning about SIGROP`
  - Sept 30, 2020: `Understood how to bypass aslr. Created a discord bot to assign a role when a certain emoji is reacted`
 
- ## October
+## October
  - Oct 1, 2020: `Started learning about heap exploitation, solved my first uaf :)`
  - Oct 2, 2020: `Played around and solved lab7C, but still need to understand heap memory deeper`
  - Oct 3-4, 2020: `Joined in the b01lers bootcamp CTF to test what I learned about memory corruption the past month; satisfied with the results, placed 92nd/500+ teams`
@@ -44,3 +44,7 @@
  - Oct 10-11, 2020: `Focused on playing DamCTF, though I only solved the easy ones.`
  - Oct 12, 2020: `Currently experimenting on what bin freed chunks go to. Results differ from articles I have read, which confuses me. Will read some more and continue tomorrow.`
  - Oct 13, 2020: `I think I finally understand which bins chunks go when they are freed. I'll read some more then start learning how to actually do exploits.`
+ - Oct 14, 2020: `Realized some of the articles I read aren't applicable since the glibc version on my device is the one with tcache implemented; so instead of going to their respective bins immediately, chunks are being placed into the tcache bin. Found out after debugging a fastbin technique.`
+ - Oct 15-16, 2020: `Got pretty busy with schoolworks didn't have time to learn pwn :(((`
+ - Oct 17, 2020: `Focusing on hacktober ctf. Attempted to play the pwn challenge from N1CTF with had the highest amount of solves, it was a heap challenge which I managed to segfault using UAF, but still figuring out the next step/s.`
+ - Oct 18, 2020: `Disappointed and feel I wasted my time on hacktober ctf (challs were very guessy asf). Will continue learning heap later tonight.`
