@@ -48,3 +48,12 @@
  - Oct 15-16, 2020: `Got pretty busy with schoolworks didn't have time to learn pwn :(((`
  - Oct 17, 2020: `Focusing on hacktober ctf. Attempted to play the pwn challenge from N1CTF with had the highest amount of solves, it was a heap challenge which I managed to segfault using UAF, but still figuring out the next step/s.`
  - Oct 18, 2020: `Disappointed and feel I wasted my time on hacktober ctf (challs were very guessy asf). Will continue learning heap later tonight.`
+ - Oct 19, 2020: `Began installing the needed tools to debug heap challs (pwninit, rust)`
+ - Oct 20, 2020: `Successfully installed the needed tools and dependencies, time to start learning heap hacking.`
+ - Oct 21, 2020: `Played some syskronCTF challs`
+ - Oct 22, 2020: `Figured out how to debug with ld_preload and with the right ld patched into the binary`
+ - Oct 23-31, 2020: `Participated in quite a lot of ctfs that happened during this time period. Details to come later.`
+ ## November
+ - Nov 1, 2020: `Played in CyberyoddhaCTF and NACTF, solved a lot of challs which are pretty good as an indicator of my current knowledge`
+ - Nov 2, 2020: `Solved four android reversing challs from MOBISEC`
+ - Nov 3, 2020: `Took a step back in order to reorganize my thoughts`
