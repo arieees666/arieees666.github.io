@@ -53,7 +53,10 @@
  - Oct 21, 2020: `Played some syskronCTF challs`
  - Oct 22, 2020: `Figured out how to debug with ld_preload and with the right ld patched into the binary`
  - Oct 23-31, 2020: `Participated in quite a lot of ctfs that happened during this time period. Details to come later.`
- ## November
+
+## November
  - Nov 1, 2020: `Played in CyberyoddhaCTF and NACTF, solved a lot of challs which are pretty good as an indicator of my current knowledge`
  - Nov 2, 2020: `Solved four android reversing challs from MOBISEC`
  - Nov 3, 2020: `Took a step back in order to reorganize my thoughts`
+ - Nov 4-5, 2020: `Attempted to try cttt again but failed. Created writeups for solved NACTF tasks`
+ - Nov 6, 2020: `Did a run down of the writeups for the heap challenges from NACTF posted by other people, will begin analysis tomorrow. Started watching heap lecture from pwncollege`
