@@ -60,3 +60,5 @@
  - Nov 3, 2020: `Took a step back in order to reorganize my thoughts`
  - Nov 4-5, 2020: `Attempted to try cttt again but failed. Created writeups for solved NACTF tasks`
  - Nov 6, 2020: `Did a run down of the writeups for the heap challenges from NACTF posted by other people, will begin analysis tomorrow. Started watching heap lecture from pwncollege`
+ - Nov 7-8, 2020: `Participated and solved challenges in Sunshine CTF instead of learning heap and doing schoolwork`
+ - Nov 9, 2020: `Beginning to have an understanding of the tcache poison technique after reading writeups of NACTF's covid tracker challenge. Writeup to come later.`
