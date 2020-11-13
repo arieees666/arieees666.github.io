@@ -63,4 +63,5 @@
  - Nov 7-8, 2020: `Participated and solved challenges in Sunshine CTF instead of learning heap and doing schoolwork`
  - Nov 9, 2020: `Beginning to have an understanding of the tcache poison technique after reading writeups of NACTF's covid tracker challenge. Writeup to come later.`
  - Nov 10, 2020: `Was able to pop a shell after following HK's writeup. Still have questions regarding on how editing/controlling the fd pointer affects the exploit and how to piece it all together. Might need to reread malloc internals again.`
- - Nov 11-12, 2020: `Continuing analysis for the tcache poison exploit after doing midterms requirements. Still getting clarification on how the exploit works. Learned about __free/__malloc hooks.`s
+ - Nov 11-12, 2020: `Continuing analysis for the tcache poison exploit after doing midterms requirements. Still getting clarification on how the exploit works. Learned about __free/__malloc hooks.`
+ - Nov 13, 2020: `I FINALLY UNDERSTOOD WHAT'S HAPPENING WITH THE EXPLOIT. EVEN CHANGED THE ORIGINAL CODE TO MAKE IT MUCH BETTER`
