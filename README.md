@@ -2,6 +2,7 @@
 
 ![](top1_boi.png)
 #### CTFtime points can be used for bragging rights, right? Here's me temporarily holding the top 1 position in the Philippines. Although the big bois will claim their spot later maybe during the harder ctfs, I'd like to place this here as a motivation of sorts. 
+
 #### I'm just a student deeply interested in cybersec, especially on the fields of binary exploitation, exploit development, and anything malware related. If I get versed with pwn and reversing, I will apply what I've learned to conduct research regarding exploitation on the Android platform. Still getting started on the field tho, but will fearlessly continue to learn and grow. Aiming to be one of the top tier hackers within and representing the Philippines. *About will be updated sooner or later*
 
 ### Progress Logs
@@ -68,3 +69,4 @@
  - Nov 10, 2020: `Was able to pop a shell after following HK's writeup. Still have questions regarding on how editing/controlling the fd pointer affects the exploit and how to piece it all together. Might need to reread malloc internals again.`
  - Nov 11-12, 2020: `Continuing analysis for the tcache poison exploit after doing midterms requirements. Still getting clarification on how the exploit works. Learned about __free/__malloc hooks.`
  - Nov 13, 2020: `I FINALLY UNDERSTOOD WHAT'S HAPPENING WITH THE EXPLOIT. EVEN CHANGED THE ORIGINAL CODE TO MAKE IT MUCH BETTER`
+ - Nov 14-17, 2020: `Focused on midterms`
