@@ -71,3 +71,5 @@
  - Nov 13, 2020: `I FINALLY UNDERSTOOD WHAT'S HAPPENING WITH THE EXPLOIT. EVEN CHANGED THE ORIGINAL CODE TO MAKE IT MUCH BETTER`
  - Nov 14-17, 2020: `Focused on midterms`
  - Nov 18, 2020: `Temporarily done with some midterm exams. Had the time to finish my cttt writeup and do readings on SIGROP exploits`
+ - Nov 19-22, 2020: `Finished my mf midterms. Got time to create a sigrop mini writeup + solve two challs from pwnable.tw`
+ - Nov 23, 2020: `Added new stuff to my discord bot code. Did a preliminary reverse engineering and created the exploit utilities needed to solve the heap challenge from Bsides Boston 2020.`
