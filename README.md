@@ -74,3 +74,4 @@
  - Nov 19-22, 2020: `Finished my mf midterms. Got time to create a sigrop mini writeup + solve two challs from pwnable.tw`
  - Nov 23, 2020: `Added new stuff to my discord bot code. Did a preliminary reverse engineering and created the exploit utilities needed to solve the heap challenge from Bsides Delhi 2020.`
  - Nov 24, 2020: `Studied the exploit for the heap challenge from Bsides Delhi, learned new info regarding libc leaks using the unsorted bin and exploiting double frees. Attempting to reverse hacknote from pwnable.tw`
+ - Nov 25-26, 2020: `Experimented with htb academy and tryhackme. Finished 4 modules from academy, was able to hack the invite code to join the main platform`
