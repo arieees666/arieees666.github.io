@@ -75,3 +75,9 @@
  - Nov 23, 2020: `Added new stuff to my discord bot code. Did a preliminary reverse engineering and created the exploit utilities needed to solve the heap challenge from Bsides Delhi 2020.`
  - Nov 24, 2020: `Studied the exploit for the heap challenge from Bsides Delhi, learned new info regarding libc leaks using the unsorted bin and exploiting double frees. Attempting to reverse hacknote from pwnable.tw`
  - Nov 25-26, 2020: `Experimented with htb academy and tryhackme. Finished 4 modules from academy, was able to hack the invite code to join the main platform`
+ - Nov 27, 2020: `Finished some modules from tryhackme and hackthebox academy again. Breezed through the babyheap challs from pwn.college, will continue learning from there and solve all heap assignments.`
+ - Nov 28-30, 2020: `Played in the InterIUT CTF with r3dact0r, I wiped the board for the android reversing challs. Got to play with new android reversing tools, excited to use them more often.`
+
+## December
+ - December 1, 2020: `Got experience with reversing an android application that uses dynamic code loading. Will attempt to do something related to heap exploitation for every day during this month.`
+ 
