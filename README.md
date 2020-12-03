@@ -81,4 +81,5 @@
 ## December
  - December 1, 2020: `Got experience with reversing an android application that uses dynamic code loading. Will attempt to do something related to heap exploitation for every day during this month.`
  - December 2, 2020: `Finished watching the dynamic allocator misuse lecture from pwn college, cleared some questions I had about how the allocator works. Finally properly understood how editing the fd pointer helps in certain exploit scenarios. Solved level 5 heap by controlling fd pointers to bypass authentication.`
+ - December 3, 2020: `Solved level6&7 babyheap. Idea was to control the fd pointer of the tcache_chunk[1] so that we can control the pointer value of tcache_chunk[0] thus having the ability to control what the allocator returns to us when we malloc memory`
  
