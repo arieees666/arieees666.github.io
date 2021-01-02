@@ -83,3 +83,8 @@
  - December 2, 2020: `Finished watching the dynamic allocator misuse lecture from pwn college, cleared some questions I had about how the allocator works. Finally properly understood how editing the fd pointer helps in certain exploit scenarios. Solved level 5 heap by controlling fd pointers to bypass authentication.`
  - December 3, 2020: `Solved level6&7 babyheap. Idea was to control the fd pointer of the tcache_chunk[1] so that we can control the pointer value of tcache_chunk[0] thus having the ability to control what the allocator returns to us when we malloc memory`
  - December 4-5: `Mainly focused on days 3 and 4 of the tryhackme advent challenges + some rooms`
+ - December 6-31: `CTF galore, tryhackme grind (advent of cyber + some rooms), rushed 1 month worth of due assignments in 5 days. Fun times.`
+
+## January
+ - January 1, 2021: `Powerwashed my laptop and reinstalled the tools I need for my ctf setup.`
+ - January 2, 2021: `Solved both android challenges from GRIMMCON 2020. After creating writeups, I will attempt to solve the waf (heap) challenge from the same ctf.`
