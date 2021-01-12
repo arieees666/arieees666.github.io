@@ -90,3 +90,5 @@
  - January 2, 2021: `Solved both android challenges from GRIMMCON 2020. After creating writeups, I will attempt to solve the waf (heap) challenge from the same ctf.`
  - January 3, 2021: `Got frida-gadget to work on a device without root. Time to learn android hacking with frida :) Also tried doing one of the fastbin challenges from nightmare, got to play with heap consolidation but will need to study about it more.`
  - January 4, 2021: `Beginning to understand some heap consolidation + chunk metadata stuff. Heap overflows are a powerful primitive to have for heap grooming. TIL that the dup in fastbin dup/tcache dup means duplication.`
+ - January 5 - 11, 2021: `Continuous lapse of judgement + experimented with some android re challs`
+ - January 12, 2021: `Finally beginning to realize how powerful the poison null byte -> overlapping chunks technique is for heap exploitation.`
