@@ -92,3 +92,8 @@
  - January 4, 2021: `Beginning to understand some heap consolidation + chunk metadata stuff. Heap overflows are a powerful primitive to have for heap grooming. TIL that the dup in fastbin dup/tcache dup means duplication.`
  - January 5 - 11, 2021: `Continuous lapse of judgement + experimented with some android re challs`
  - January 12, 2021: `Finally beginning to realize how powerful the poison null byte -> overlapping chunks technique is for heap exploitation.`
+ - January 13 - 17, 2021: `Did absolutely nothing then promised myself I would be productive for the rest of the year.`
+ - January 18, 2021: `Began doing my final requirements for the first sem first, then did the hacker methodology room from tryhackme.`
+ - January 19, 2021: `Finished some of the hardest requirements, had the time to study and do some xss attacks on the owasp room.`
+ - January 20, 2021: `4 requirements left to do. Completed the basic pentesting room and learned how to use hydra for brute force attacks.`
+
