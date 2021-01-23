@@ -97,5 +97,5 @@
  - January 19, 2021: `Finished some of the hardest requirements, had the time to study and do some xss attacks on the owasp room.`
  - January 20, 2021: `4 requirements left to do. Completed the basic pentesting room and learned how to use hydra for brute force attacks.`
  - January 21, 2021: `2 reqs left, maybe 3 if another one gets added tomorrow. Completed the root me room from tryhackme, got to refresh what I learned for file upload vulns and basic privesc. Made some progress with the fetusheap chall.`
- - January 22, 2021L `1 left (or 2 if another requirement gets added). Got user and root flags for the bounty hunter room on thm - was pretty straightforward. I enjoyed the privesc part even if it was easy. Watched motivational + self-discipline videos`
-
+ - January 22, 2021: `1 left (or 2 if another requirement gets added). Got user and root flags for the bounty hunter room on thm - was pretty straightforward. I enjoyed the privesc part even if it was easy. Watched motivational + self-discipline videos`
+ - January 23, 2021: `Finally finished all of my requirements. Time to start learning hacking again. Day 1 of reading malloc source code until I get decent with my understanding of the dynamic allocator internals.`
