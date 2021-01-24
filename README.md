@@ -99,3 +99,4 @@
  - January 21, 2021: `2 reqs left, maybe 3 if another one gets added tomorrow. Completed the root me room from tryhackme, got to refresh what I learned for file upload vulns and basic privesc. Made some progress with the fetusheap chall.`
  - January 22, 2021: `1 left (or 2 if another requirement gets added). Got user and root flags for the bounty hunter room on thm - was pretty straightforward. I enjoyed the privesc part even if it was easy. Watched motivational + self-discipline videos`
  - January 23, 2021: `Finally finished all of my requirements. Time to start learning hacking again. Day 1 of reading malloc source code until I get decent with my understanding of the dynamic allocator internals.`
+ - January 24, 2021: `Did some rooms on tryhackme (networking + lazy admin) was pretty fun to read the exploit details from searchsploit to solve the box, solved the oauth challenge from hacker101 ctf`
