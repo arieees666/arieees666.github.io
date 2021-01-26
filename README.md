@@ -100,3 +100,6 @@
  - January 22, 2021: `1 left (or 2 if another requirement gets added). Got user and root flags for the bounty hunter room on thm - was pretty straightforward. I enjoyed the privesc part even if it was easy. Watched motivational + self-discipline videos`
  - January 23, 2021: `Finally finished all of my requirements. Time to start learning hacking again. Day 1 of reading malloc source code until I get decent with my understanding of the dynamic allocator internals.`
  - January 24, 2021: `Did some rooms on tryhackme (networking + lazy admin) was pretty fun to read the exploit details from searchsploit to solve the box, solved the oauth challenge from hacker101 ctf`
+ - January 25, 2021: `Completed the ff rooms on tryhackme: Ohsint, Brooklyn99, and BruteIt. They were fairly easy. Did a simple sigrop on 0x41414141 ctf. Other pwn are hard ngl`
+ - January 26, 2021: `First time exploiting a vulnerable cronjob on tryhackme, was pretty fun. Worked on some guessy ctf challs (shadowctf), will work on the pwn from 0x41414141 later after class.`
+
