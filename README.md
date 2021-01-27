@@ -102,4 +102,4 @@
  - January 24, 2021: `Did some rooms on tryhackme (networking + lazy admin) was pretty fun to read the exploit details from searchsploit to solve the box, solved the oauth challenge from hacker101 ctf`
  - January 25, 2021: `Completed the ff rooms on tryhackme: Ohsint, Brooklyn99, and BruteIt. They were fairly easy. Did a simple sigrop on 0x41414141 ctf. Other pwn are hard ngl`
  - January 26, 2021: `First time exploiting a vulnerable cronjob on tryhackme, was pretty fun. Worked on some guessy ctf challs (shadowctf), will work on the pwn from 0x41414141 later after class.`
-
+ - January 27, 2021: `Our place had an 8-hour brownout, but I saved a heap challenge to practice beforehand. Pwned the baby heap from fireshellctf 2019 and got to play with tcache poisons a little bit more. I should probably make it a habit to check .bss variables. Got the user flag for the gamingserver room on thm but couldn't escalate privs since I couldn't download files on the free attackbox.`
