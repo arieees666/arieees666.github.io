@@ -110,3 +110,4 @@
 
 ## February
  - February 1, 2021: `Wasn't able to do much on tryhackme today, simply because my exploit doesn't seem to work. For day 1 of learning heap everyday until I get better, I learned about the safe-linking mitigation in glibc 2.32 and how to bypass it. I will still need more readings on it.`
+ - February 2, 2021: `Woke up early to do some tryhackme then rooted the tomghost box, using a file read vuln on tomcat and privesc using zip. Wasn't able to do much heap stuff because of some events. Created writeups for some challenges in our discord server`
