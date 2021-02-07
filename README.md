@@ -115,3 +115,4 @@
  - February 4, 2021: `Ez finish on the bolt box, halfway done with the crack the hashes challenge. No pwn today, but I prepared some challenges to do tomorrow. Tried learning crypto, ended up regretting it after being stuck on the math needed.`
  - February 5, 2021: `Bruteforced a wp-admin login form to upload a reverse shell, get user and easily privesc on the coldbox machine. Reading writeups to learn better approaches. Began reversing + installed tools to find bugs on [REDACTED] target`
  - February 6, 2021: `Finished the chillhack and source boxes on tryhackme, but will still need to review writeups for better approaches. Solved some challs from trollcat, proud that I solved the heap pwn chall. I'm starting to get the hang of tcache poisoning, need to learn more.`
+ - February 7, 2021: `Rooted the chocolatefactory box using command injection + vi privesc. Found a possible vuln on a target I'm researching, but still trying to find a way to exploit it.`
