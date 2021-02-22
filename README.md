@@ -128,3 +128,6 @@
  - February 17, 2021: `I wasn't able to do much again today. Finished the wonderland box, had fun with the path variable manipulation + multiple user privescs. Did some research regarding some target.`
  - February 18, 2021: `Fucking fuck I forgot to add an entry to this day. Was uneventful anyways, solved 6/7 questions on the watcher room pretty fun multiple privesc. Then spent the rest of the night studying a target`
  - February 19, 2021: `Did some challs on tenable ctf. I really need to focus on learning heap while I'm earning moeny to buy a phone to learn android pwn with`
+ - February 20, 2021: `I forgot updating my logs again. Did some ctf challs from tenable + darkcon`
+ - February 21, 2021: `Did overpass on tryhackme, still not done with root. User was pretty easy though. I fucking forgot to update again`
+ - February 22, 2021: `Did not complete a tryhackme room for today since I accidentally shut down my attackbox connection by killing the process running on port 80. Reviewed solutions for crypto/web challs of dark con. Will analyze pwn/rev tomorrow.`
