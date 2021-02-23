@@ -131,3 +131,4 @@
  - February 20, 2021: `I forgot updating my logs again. Did some ctf challs from tenable + darkcon`
  - February 21, 2021: `Did overpass on tryhackme, still not done with root. User was pretty easy though. I fucking forgot to update again`
  - February 22, 2021: `Did not complete a tryhackme room for today since I accidentally shut down my attackbox connection by killing the process running on port 80. Reviewed solutions for crypto/web challs of dark con. Will analyze pwn/rev tomorrow.`
+ - February 23, 2021: `Completed the year of the rabbit room, struggled a little bit with the rick roll, but getting user was pretty straightforward. Learned something new about a sudo vuln. Added crypto knowledge by attacking a reused key vulnerability on the RC4 challenge from darkcon`
