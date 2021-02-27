@@ -135,3 +135,4 @@
  - February 24, 2021: `Easy foothold done on the mindgames room, but I needed to read some writeups for the privesc which was pretty cool using openssl engines to pop a root shell. Tried to set up a parrot os vm so that I can try to play thm and htb properly`
  - February 25, 2021: `Learned how to enumerate a simple smb share for anonymous room but it wasn't really needed. Started enumeration for the mr. robot box. Reread the poison null byte technique to understand it more and practiced the children tcache chall from hitcon '18`
  - February 26, 2021: `Continued enumerating the mr. robot room, but no progress. Did ignite instead to keep the streak. I should finish schoolwork first before focusing on hacking stuff. I hate school for this sole reason.`
+ - February 27, 2021: `Fucking hate having saturday classes. Lazy day at tryhackme today, bruteforceing + enumerating open ports was quite slow. I broke something in my ubuntu chroot again, time to reinstall`
