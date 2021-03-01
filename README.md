@@ -137,3 +137,6 @@
  - February 26, 2021: `Continued enumerating the mr. robot room, but no progress. Did ignite instead to keep the streak. I should finish schoolwork first before focusing on hacking stuff. I hate school for this sole reason.`
  - February 27, 2021: `Fucking hate having saturday classes. Lazy day at tryhackme today, bruteforceing + enumerating open ports was quite slow. I broke something in my ubuntu chroot again, time to reinstall`
  - February 28, 2021: `Completed reinstalling a new chroot. Did an easy room on tryhackme. Currently reviewing angr scripts for future reference.`
+
+## March
+ - March 1, 2021: `Trying to create a mini ctf challenge to supplement my learning with the how2heap repo; didn't know creating ctf challs could be very tedious. Doing this to have better understanding of heap-based programs (by building then breaking them) and to brush up on my C programming since I want to work with very low-level code soon.`
