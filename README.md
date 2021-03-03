@@ -141,3 +141,4 @@
 ## March
  - March 1, 2021: `Trying to create a mini ctf challenge to supplement my learning with the how2heap repo; didn't know creating ctf challs could be very tedious. Doing this to have better understanding of heap-based programs (by building then breaking them) and to brush up on my C programming since I want to work with very low-level code soon.`
  - March 2, 2021: `Did an easy tryhackme room before having classes. Gonna reinstall again since pwntools doesn't seem to work plus I think my test ctf challenge is broken. Will read malloc source in the meantime.`
+ - March 3, 2021: `Learned new stuff on linux backdoors + new python privesc technique from the jpgchat room. I lack discipline. I should finish schoolworks immediately so that I can focus on learning pwn.`
