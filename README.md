@@ -147,3 +147,4 @@
  - March 6, 2021: `Refreshed my knowledge on python exploit techniques in the peak hill room, started the biohazard room since I had spare time. Finally fully debugged what check free() was raising then adjusted my exploit to pop a shell, it was very satisfying process.`
  - March 7, 2021: `Finished a puzzle-type ctf box (biohazard room) which was pretty good but can be guessy if you don't know what ciphers to use. I didn't do heap today, but I got to work with a shellcode technique which is pretty nice.`
  - March 8, 2021: `Learned new LFI techiniques, log poisoning from the archangel room. It was an easy privesc, I was able to identify a pathvar manipulation vuln. Didn't do heap, played a little bit of bsides sf ctf.`
+ - March 9, 2021: `Did the bare minimum for tryhackme. Finally completed the fetusheap chall from OTA, which took quite a while but I learned a lot regarding fastbin techniques.`
