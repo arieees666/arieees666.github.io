@@ -148,3 +148,4 @@
  - March 7, 2021: `Finished a puzzle-type ctf box (biohazard room) which was pretty good but can be guessy if you don't know what ciphers to use. I didn't do heap today, but I got to work with a shellcode technique which is pretty nice.`
  - March 8, 2021: `Learned new LFI techiniques, log poisoning from the archangel room. It was an easy privesc, I was able to identify a pathvar manipulation vuln. Didn't do heap, played a little bit of bsides sf ctf.`
  - March 9, 2021: `Did the bare minimum for tryhackme. Finally completed the fetusheap chall from OTA, which took quite a while but I learned a lot regarding fastbin techniques.`
+ - March 10, 2021: `Had the chance to borrow my mom's laptop so I finished the overpass room on tryhackme using the vm i installed. Also got user on the script kiddie machine on htb but I'm struggling with privesc. Did some htb pwn, no heap today :(`
