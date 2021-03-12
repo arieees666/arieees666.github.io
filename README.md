@@ -150,3 +150,4 @@
  - March 9, 2021: `Did the bare minimum for tryhackme. Finally completed the fetusheap chall from OTA, which took quite a while but I learned a lot regarding fastbin techniques.`
  - March 10, 2021: `Had the chance to borrow my mom's laptop so I finished the overpass room on tryhackme using the vm i installed. Also got user on the script kiddie machine on htb but I'm struggling with privesc. Did some htb pwn, no heap today :(`
  - March 11, 2021: `Bare minimum for tryhackme, spent most of my night debugging + studying bad grades from HTB which I eventually flagged. Pretty tricky yet fun, will do a writeup later.`
+ - March 12, 2021: `Finished the broker room on tryhackme, enjoyed playing around requests with burp. Preparing to solve hacknote from pwnable.tw but having problems unstripping the libc`
