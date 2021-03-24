@@ -153,3 +153,8 @@
  - March 12, 2021: `Finished the broker room on tryhackme, enjoyed playing around requests with burp. Preparing to solve hacknote from pwnable.tw but having problems unstripping the libc`
  - March 13, 2021: `Had fun with retracing a hacker's steps from a packet capture then redoing the needed steps to pwn the hacked machine on tryhackme. Solved a slightly tricky heap chall from nahamsec ctf which is pretty nice, I'm improving :)`
  - March 14, 2021: `Finished overpass2, similar approached with the challenge I solved yesterday. Speedrun through some of the challenges on nahamcon.`
+ - March 15, 2021: `PWNED MY FIRST HACKTHEBOX MACHINE`
+ - March 16, 2021: `Finally finished the overpass series with some help. Will need to go over the notes again`
+ - March 17, 2021: `Cleared the easy-medium pwn challs on picoctf.`
+ - March 18-23, 2021: `Procrastinated on my prelims exams and requirements. Joined and will be playing with ARESx on upcoming ctfs, but I'm still on trial period (if I'll be able to contribute, they'll let me stay)`
+ - March 24, 2021: `Analyzed the stdnoerr's exploit for the killshot challenge on securinets quals, learned new stuff about tcache_perthread_struct and ROP on heap chunks (also how to use the rop functionality on pwntools).`
