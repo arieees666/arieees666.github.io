@@ -158,3 +158,4 @@
  - March 17, 2021: `Cleared the easy-medium pwn challs on picoctf.`
  - March 18-23, 2021: `Procrastinated on my prelims exams and requirements. Joined and will be playing with ARESx on upcoming ctfs, but I'm still on trial period (if I'll be able to contribute, they'll let me stay)`
  - March 24, 2021: `Analyzed the stdnoerr's exploit for the killshot challenge on securinets quals, learned new stuff about tcache_perthread_struct and ROP on heap chunks (also how to use the rop functionality on pwntools).`
+ - March 25, 2021: `Reviewed some SROP writeups to get more ideas, learned a new trick regarding time.sleep to not mix up payloads. Began initial analysis + writing of exploit helpers for the deathnote chall from securinets`
