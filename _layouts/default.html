@@ -21,9 +21,6 @@ theme: jekyll-theme-hacker
     <link href="/assets/vendor/venobox/venobox.css" rel="stylesheet">
     <link href="/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
 
-    <!-- Template Main CSS File -->
-    <!--link href="../assets/css/style.css" rel="stylesheet">-->
-
     <!-- =======================================================
     * Template Name: KnightOne - v2.2.1
     * Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
@@ -39,7 +36,7 @@ theme: jekyll-theme-hacker
   <body>
 
         <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top ">
+    <!--<header id="header" class="fixed-top ">
       <div class="container-fluid">
 
         <div class="row justify-content-center">
@@ -52,12 +49,25 @@ theme: jekyll-theme-hacker
                 <li class="active"><a href="/pwn_writeups/">CTF Writeups</a></li>
                 <li><a href="#portfolio">Projects</a></li>
               </ul>
-            </nav><!-- .nav-menu -->
+            </nav> 
           </div>
         </div>
       </div>
-    </header><!-- End Header -->
+    </header> -->
 
+    <header>
+      <div class="container">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        
+        <nav class="nav-menu d-none d-lg-block">
+                <li><a href="/">Home</a></li>
+                <li class="active"><a href="/pwn_writeups/">CTF Writeups</a></li>
+                <li><a href="#portfolio">Projects</a></li>
+        </nav>
+      </div>
+                                                        
+    </header>
     <!-- jekyll default
     <header>
       <div class="container">
